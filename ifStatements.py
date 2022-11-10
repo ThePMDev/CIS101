@@ -1,4 +1,17 @@
-# create a program that calculates a student's letter grade and outputs the grade and if they passed or not
+
+
+
+# Write a program that asks the user for a whole number greater than zero.
+# ## If the number is less than 100 tell them that number is a small number, otherwise tell them that number is a large number.
+# ## This will require using the keywords if and else
+
+# Using that program, modify it so if the number is less than 10 tell them it is a single digit number,
+# ## if it is less than 100 but at least 10 tell them that it is a double digit number,
+# ## otherwise tell them that it is larger than a double digit number.
+# ## This will require using the keywords if elif and else 
+
+# build a four function calculator
+# create a program that calculates a student's letter grade and outputs the grade and says if they passed or not
 
 # set the exam's point value
 # set the default letter grade
